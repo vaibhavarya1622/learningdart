@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680410203458",
+    "project_id": "todoapp-574b5",
+    "storage_bucket": "todoapp-574b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680410203458:android:0a79256f16e48685f734db",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680410203458-f4ai330psqstai3ef6mahlsg7u6g102p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learningdart",
+            "certificate_hash": "35430644e83e4e9e59d2290febfd0a0c7a885db5"
+          }
+        },
+        {
+          "client_id": "680410203458-mn9f1uqo1uq14b5c49mvjuetpj0du4fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0J6fEDrmyqlLUuPDXLa9177gVc54RRz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680410203458-mn9f1uqo1uq14b5c49mvjuetpj0du4fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
